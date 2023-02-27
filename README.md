@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rdnerd95/)
 
 ![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoRD95&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoRD95&layout=compact_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoRD95&layout=compact&progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens que estudo hoje em dia.
 
