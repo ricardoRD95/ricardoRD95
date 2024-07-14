@@ -1,4 +1,4 @@
-### 👋 Olá, sou Ricardo Leite Nascimento, sou do Rio de Janeiro, Rio de Janeiro, Brasil. Bem-vindo ao meu perfil no Github, estou estudando para me formar em Ciência da Computação. 
+### 👋 Olá, sou Ricardo Leite Nascimento, sou do Rio de Janeiro, Rio de Janeiro, Brasil. Bem-vindo ao meu perfil no Github. 
 
  <br>
 
